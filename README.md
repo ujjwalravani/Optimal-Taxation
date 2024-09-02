@@ -1,16 +1,12 @@
-`					      `CL-643 
-
-`					`Project Report
-
-`				   `Ujjwal Ravani ( 210102116 )
-
-`				      `Aum Patel ( 210102112 )
+CL-643: Project Report
 
 
 
 
 
-`   `**Optimal taxation for income redistribution**
+
+
+**Optimal taxation for income redistribution**
 
 
 1. **The Problem :** 
@@ -41,9 +37,9 @@ The decision variables represent the Tax Rate<sub>i</sub></i>  to be imposed on 
 
 (c) Objective Function : 
 
-` `Maximize R ( Tax Revenue )  = Σ<sub>i</sub> (Tax Rate)<sub>i</sub> \* (Tax Base)<sub>i</sub>
+Maximize R ( Tax Revenue )  = Σ<sub>i</sub> (Tax Rate)<sub>i</sub> \* (Tax Base)<sub>i</sub>
 
-- ` `*i*  denotes the *i*th income group 
+- *i*  denotes the *i*th income group 
 - Tax Rate<sub>i</sub> is the tax imposed on the *i*<sub>th</sub> income group
 - Tax Base<sub>i</sub> is the total income of *i*<sub>th</sub> income group that is subject to taxation.
 
@@ -182,7 +178,6 @@ We define [0,0.4] as the target range of gini index. Since we want to minimize i
 
 **PART A :** 
 
-**	
 
 |**Algorithm**|**Objective Function Value (Tax Revenue)** |
 | :- | :- |
